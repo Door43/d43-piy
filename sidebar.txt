@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[piy:home|Door43 (piy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-piy|d43-piy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-piy/archive/master.zip|d43-piy.zip]]
+
+**Recent Changes**
+{{changes>ns = piy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/piy|Ethnologue data]]
+
